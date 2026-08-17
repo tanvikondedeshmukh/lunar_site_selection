@@ -1,0 +1,9 @@
+{
+  "dataset": "LRO LOLA Digital Elevation Model (60m resolution)",
+  "region": "Lunar South Pole (80S to 90S)",
+  "projection": "Polar Stereographic",
+  "data_points": 100,
+  "min_elevation_m": -3500.0,
+  "max_elevation_m": 2500.0,
+  "average_slope_deg": 11.2
+}
